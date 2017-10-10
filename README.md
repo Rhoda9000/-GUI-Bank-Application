@@ -5,7 +5,8 @@ This C# and mySQL Bank Application will allow for an Admin to register new custo
 
 In order to use this application create a database called 'bank' within a localhost database e.g XAMMP/PhpMyadmin and install a C# mySQL connector. 
 
-# Admin  
+# Admin 
+
 ![GUI-Bank-Application](https://github.com/Rhoda9000/GUI-Bank-Application/blob/master/Capture1.PNG "How the output would look like")
 
 ![GUI-Bank-Application](https://github.com/Rhoda9000/GUI-Bank-Application/blob/master/Capture2.PNG "How the output would look like")
@@ -14,7 +15,9 @@ In order to use this application create a database called 'bank' within a localh
 
 ![GUI-Bank-Application](https://github.com/Rhoda9000/GUI-Bank-Application/blob/master/Capture4.PNG "How the output would look like")
 
+
 # Customer
+
 ![GUI-Bank-Application](https://github.com/Rhoda9000/GUI-Bank-Application/blob/master/Capture5.PNG "How the output would look like")
 
 ![GUI-Bank-Application](https://github.com/Rhoda9000/GUI-Bank-Application/blob/master/Capture6.PNG "How the output would look like")
